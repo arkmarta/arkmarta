@@ -1,16 +1,19 @@
-## Hi there 👋
+### About Me
+Penetration tester with 6+ years of experience in network and web application security. Outside of work, I independently hunt for vulnerabilities in open-source projects.
 
-<!--
-**arkmarta/arkmarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### CVE & Security Advisories
+Vulnerabilities responsibly disclosed across various open-source projects. Full list of [credits and advisories](https://github.com/arkmarta/CVE-Credits).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Blog
+I share selected research notes and technical write-ups focused on real-world cases at [res0urce.blog](https://res0urce.blog).
+
+---
+
+### Connect
+
+[![Blog](https://img.shields.io/badge/RE:SØURCE-res0urce.blog-black?style=social&logo=ghost)](https://res0urce.blog)
+[![LinkedIn](https://badgen.net/badge/LinkedIn/arkadiusz--marta/blue?icon=)](https://www.linkedin.com/in/arkadiusz-marta/)
