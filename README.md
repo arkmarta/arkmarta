@@ -1,5 +1,5 @@
 ### About Me
-Penetration tester with 6+ years of experience in network and web application security. Outside of work, I independently hunt for vulnerabilities in open-source projects.
+Penetration tester with 7 years of experience in network and web application security. Outside of work, I independently hunt for vulnerabilities in open-source projects.
 
 ---
 
@@ -9,11 +9,11 @@ Vulnerabilities responsibly disclosed across various open-source projects. Full 
 ---
 
 ### Blog
-I share selected research notes and technical write-ups focused on real-world cases at [res0urce.blog](https://res0urce.blog).
+I share selected research notes and technical write-ups focused on real-world cases at [resource.re](https://resource.re).
 
 ---
 
 ### Connect
 
-[![Blog](https://img.shields.io/badge/RE:SØURCE-res0urce.blog-black?style=social&logo=ghost)](https://res0urce.blog)
+[![Blog](https://img.shields.io/badge/RE:SØURCE-resource.re-black?style=social&logo=ghost)](https://resource.re)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/arkadiusz--marta/blue?icon=)](https://www.linkedin.com/in/arkadiusz-marta/)
